@@ -1,0 +1,191 @@
+body{
+ margin: 0;
+ padding: 0;
+ background-color: #ffffff;
+}
+.main{
+
+    width: 100%;
+    height: 180px;
+    background-color: #BAA7B0;
+    transform: skewY(-3deg);
+ 
+}
+.main .tex{
+    width: 50%;
+    height: 50%;
+    position: absolute;
+    left: 15%;
+    top: 20%;
+
+}
+.main .tex .p1{
+    color: #000000;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 35px;
+    transform: skewY(3deg);
+    margin-bottom: 4;
+}
+.main .tex .p2{
+    color: #000000;
+    font-family: 'Abril Fatface', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 25px;
+    transform: skewY(3deg);
+    margin-top: 0;
+}
+
+
+.main .img{
+    position: absolute;
+    top: 20%;
+    right: 75px;
+    width: 180px;
+    height: 180px;
+    transform: skewY(3deg);
+    overflow: hidden;
+}
+.main .img img{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.inf{
+    width:95%;
+    height: auto;
+    background: #B2ABBF;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px ;
+    font-family: 'Abril Fatface', sans-serif;
+}
+.inf .titulo{
+    color: #000000;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    border: 1px #000000 solid;
+    font-family: 'Indie Flower', cursive;
+
+}
+.inf .titulo1{
+    color: #000000;
+    font-size: large;
+    font-weight: bolder;
+    display: inline;
+    margin-right: 20px;
+    font-family: 'Phudu', cursive;
+
+}
+.inf .titulo2{
+    color: #000000;
+    font-size: large;
+    display: inline;
+    font-family: 'Phudu', cursive;
+}
+
+
+
+.perf{
+    width:95%;
+    height: auto;
+    background: #B1B5C8;
+    margin: 2% auto;
+    padding: 20px;
+    border-radius: 20px ;
+    font-family: 'Abril Fatface', sans-serif;
+}
+.perf .p1{
+    color: #000000;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    border: 1px #000000 solid;
+    font-family: 'Phudu', cursive;
+
+}
+.perf .p2{
+    color: #000000;
+    font-size: large;
+    font-family: 'Phudu', cursive;
+
+}
+
+
+.exp {
+    width:95%;
+    height: auto;
+    background: #BFD5E2;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px ;
+}
+.exp .titulo{
+    color: #000000;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    border: 1px #000000 solid;
+}
+.exp .p1{
+    color: #000000; 
+    font-weight: bolder;
+    font-family: 'Phudu', cursive;
+
+}
+.exp .p2{
+    color: #000000;
+    font-size: large;
+    font-family: 'Phudu', cursive;
+}
+
+
+.for {
+    width:95%;
+    height: auto;
+    background: #BFD5E2;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px ;
+}
+.for .titulo{
+    color: #000000;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    border: 1px #000000 solid;
+}
+.for .p1{
+    color: #000000; 
+    font-family: 'Phudu', cursive;
+}
+
+
+.ref {
+    width:95%;
+    height: auto;
+    background: #BFD5E2;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px ;
+}
+.ref .titulo{
+    color: #000000;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+    border: 1px #000000 solid;
+}
+.ref .p1{
+    color: #000000;
+    font-size: large;
+    font-family: 'Phudu', cursive;
+}
